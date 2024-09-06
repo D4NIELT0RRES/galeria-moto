@@ -1,5 +1,5 @@
 # Landing Page - Moto GP
-![](./screenshot/moto.png)
+![](./screenshot/moto-gp.png)
 
 
 ## MOTO GP
