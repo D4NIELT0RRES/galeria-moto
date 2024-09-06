@@ -1,4 +1,4 @@
-# Landing Page - Moto GP
+# Site - Moto GP
 ![](./screenshot/moto-gp.png)
 
 
